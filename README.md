@@ -42,7 +42,7 @@ Response
 Request
 
 ```
-Get /api/customers/**1**
+Get /api/customers/1
 ```
 
 Response
